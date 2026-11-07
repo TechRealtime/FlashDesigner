@@ -1,0 +1,28 @@
+# FlashDesigner
+
+> The open-source UI design system and Knowledge Base System (KBS) for AI agents, LLMs, and vibe coders.
+
+FlashDesigner enforces professional product-grade UI standards, prevents generic AI UI tropes, and provides structured design blueprints for modern web applications.
+
+## Mandatory Entry Points
+- [RULES.md](RULES.md): Core design constitution, banned anti-patterns, and mandatory AI execution protocol.
+- [INDEX.md](INDEX.md): Category router and document catalog for application-specific specs.
+
+## Core Fundamentals
+- [core/responsiveness.md](core/responsiveness.md): Multi-screen ratio adaptation, fluid flex/grid layouts, and text wrap prevention.
+- [core/typography.md](core/typography.md): Sans-serif font stacks (Inter, Google Sans, Open Sans), weight limits, and anti-yelling casing rules.
+- [core/micro-interactions.md](core/micro-interactions.md): Action acknowledgments (e.g. "Copied!", button morphs) and iOS-smooth cubic-bezier transitions.
+- [core/theming.md](core/theming.md): Class-based light & dark mode tokens, high WCAG AA contrast, and zero system-theme flickering.
+
+## Application Categories
+- [categories/enterprise-crm-and-pipelines.md](categories/enterprise-crm-and-pipelines.md): Enterprise CRM systems, contact registries, lead velocity barcodes, floating batch action docks, and status badge tiers.
+- [categories/portfolios-and-personal-sites.md](categories/portfolios-and-personal-sites.md): Personal portfolios, interactive resumes, light/dark parity, embedded AI Q&A bars, and chronological timelines.
+- [categories/saas-dashboards.md](categories/saas-dashboards.md): SaaS revenue analytics, MRR tracking, AI brand visibility (AEO/GEO), semi-circle revenue gauges, and source classification tables.
+- [categories/hr-analytics-and-portals.md](categories/hr-analytics-and-portals.md): HR management systems, people analytics, employee directories, attendance spline charts, department distribution donuts, and candidate talent cards.
+- [categories/file-managers-and-nas.md](categories/file-managers-and-nas.md): Cloud storage drives, NAS/cPanel file managers, directory trees, drag & drop zones, storage donut meters, and live code split-views.
+- [categories/llm-chat-and-dashboards.md](categories/llm-chat-and-dashboards.md): Conversational assistants, Antigravity agentic IDEs, artifact code diff review bars, attachment thumbnail trays, tool execution accordions, and settings dialogs.
+- [categories/saas-dashboards.md](categories/saas-dashboards.md): Business metrics, KPI cards, sidebar navigation, and data density.
+
+## Reusable Patterns
+- [patterns/buttons-and-actions.md](patterns/buttons-and-actions.md): Button states, inline feedback, and icon placement.
+- [patterns/loading-and-skeletons.md](patterns/loading-and-skeletons.md): Structural skeleton loaders vs. inline circular spinners.
